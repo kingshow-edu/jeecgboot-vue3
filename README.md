@@ -1,11 +1,11 @@
 JEECG BOOT 低代码开发平台（Vue3前端）
 ===============
-当前最新版本： 3.6.3（发布时间：2024-03-11）
+当前最新版本： 3.7.0（发布时间：2024-06-17）
 
 [![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/zhangdaiscott/jeecg-boot/blob/master/LICENSE)
 [![](https://img.shields.io/badge/Author-北京国炬软件-orange.svg)](http://jeecg.com/aboutusIndex)
 [![](https://img.shields.io/badge/Blog-官方博客-blue.svg)](https://jeecg.blog.csdn.net)
-[![](https://img.shields.io/badge/version-3.6.3-brightgreen.svg)](https://github.com/zhangdaiscott/jeecg-boot)
+[![](https://img.shields.io/badge/version-3.7.0-brightgreen.svg)](https://github.com/zhangdaiscott/jeecg-boot)
 [![GitHub stars](https://img.shields.io/github/stars/zhangdaiscott/jeecg-boot.svg?style=social&label=Stars)](https://github.com/zhangdaiscott/jeecg-boot)
 [![GitHub forks](https://img.shields.io/github/forks/zhangdaiscott/jeecg-boot.svg?style=social&label=Fork)](https://github.com/zhangdaiscott/jeecg-boot)
 
@@ -24,17 +24,14 @@ JeecgBoot-Vue3采用 Vue3.0、Vite、 Ant-Design-Vue4、TypeScript 等新技术�
 官方支持： http://jeecg.com/doc/help
 
 
-## 源码下载
-
-- 后台源码 ：https://github.com/jeecgboot/jeecg-boot
-- 前端源码 ：https://github.com/jeecgboot/jeecgboot-vue3
 
 ##### 项目说明
 
 | 项目名                | 说明                                      | 
 |--------------------|-----------------------------------------|
-| `jeecgboot-vue3` | 前端源码Vue3版下载                             | 
-| `jeecg-boot`    | 后端JAVA源码下载（SpringBoot+SpringCloud） | 
+| `jeecgboot-vue3` | [前端源码Vue3](https://github.com/jeecgboot/jeecgboot-vue3)                      | 
+| `jeecg-boot`     | [后端源码JAVA（SpringBoot+SpringCloud）](https://github.com/jeecgboot/jeecg-boot) | 
+
 
 ## 开发环境搭建
 
@@ -47,7 +44,7 @@ JeecgBoot-Vue3采用 Vue3.0、Vite、 Ant-Design-Vue4、TypeScript 等新技术�
 -   官方文档：[https://help.jeecg.com](https://help.jeecg.com)
 -   官方网站： [https://www.jeecg.com](https://www.jeecg.com)
 -   快速入门：[快速入门](http://jeecg.com/doc/quickstart) | [常见问题](http://help.jeecg.com/qa.html) | [视频教程](https://www.bilibili.com/video/BV1V34y187Y9 "入门视频") |  [ 代码生成](http://help.jeecg.com/vue3/codegen/online.html)
--   QQ交流群：⑧825232878、⑦791696430(满)、683903138(满)
+-   QQ交流群：⑨808791225、⑧825232878(满)、⑦791696430(满)、683903138(满)、其他满
 -   在线演示 ：  [Vue3演示](http://boot3.jeecg.com)   | [APP演示](http://jeecg.com/appIndex)|  [敲敲云零代码](https://www.qiaoqiaoyun.com)
 > 演示系统的登录账号密码，请点击 [获取账号密码](http://jeecg.com/doc/demo) 获取
 
